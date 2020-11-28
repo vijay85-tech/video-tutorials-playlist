@@ -1,10 +1,6 @@
 import React, { useState, useEffect, Fragment } from "react";
 import ReactPlayer from "react-player";
 import { useParams } from "react-router-dom";
-//GET // HTTP/1.1
-
-// Accept: application/json
-
 const Coursename = () => {
   const { coursename } = useParams();
   const [coures, setCourses] = useState([]);
@@ -49,7 +45,7 @@ const Coursename = () => {
       setCurrentTitle(data[0].title);
       setCourses(data);
     } catch (e) {
-      console.log(e);
+      // console.log(e);
     }
   };
 

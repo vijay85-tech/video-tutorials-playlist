@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 83vh;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.box {
+  width: 40vw;
+  height: 50vh;
+  background-color: rgb(117, 115, 115);
+  text-align: center;
+  padding: 20px 0px;
+  color: #ffffff;
+}
+
+.controls {
+  width: 40vw;
+  height: 50vh;
+  color: #ffffff;
+}
+p {
+  font-weight: bolder;
+}
+label {
+  font-weight: bold;
+}

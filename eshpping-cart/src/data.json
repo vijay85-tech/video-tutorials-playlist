@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Midi sundress with shirring details",
+            "description": " This for all the latest trens, no matter who is used to on which occuasion",
+            "price": 29.8,
+            "availableSizes": [
+                "XL",
+                "L",
+                "M",
+                "S"
+            ]
+        },
+        {
+            "_id": "dress2",
+            "image": "/images/dress3.jpg",
+            "title": "Midi sundress with shirring details 22",
+            "description": " This for all the latest trens, no matter who is used to on which occuasion",
+            "price": 30.8,
+            "availableSizes": [
+                "XL",
+                "L",
+                "M",
+                "S"
+            ]
+        },
+        {
+            "_id": "dress3",
+            "image": "/images/dress3.jpg",
+            "title": "Midi sundress with shirring details33",
+            "description": " This for all the latest trens, no matter who is used to on which occuasion",
+            "price": 60,
+            "availableSizes": [
+                "M",
+                "S"
+            ]
+        },
+        {
+            "_id": "dress4",
+            "image": "/images/dress1.jpg",
+            "title": "Midi sundress with shirring details4",
+            "description": " This for all the latest trens, no matter who is used to on which occuasion",
+            "price": 11.99,
+            "availableSizes": [
+                "XL",
+                "L"
+            ]
+        },
+        {
+            "_id": "dress5",
+            "image": "/images/dress5.jpg",
+            "title": "Midi sundress with shirring details555",
+            "description": " This for all the latest trens, no matter who is used to on which occuasion",
+            "price": 45.8,
+            "availableSizes": [
+                "XL",
+                "L",
+                "M",
+                "S",
+                "XS"
+            ]
+        },
+        {
+            "_id": "dress6",
+            "image": "/images/dress6.jpg",
+            "title": "Midi sundress with shirring details",
+            "description": " This for all the latest trens, no matter who is used to on which occuasion",
+            "price": 2.7,
+            "availableSizes": [
+                "XL",
+                "L",
+                "M",
+                "S"
+            ]
+        }
+    ]
+}

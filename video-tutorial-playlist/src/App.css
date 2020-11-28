@@ -1,0 +1,44 @@
+.App {
+  /* display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  width: 100vw;
+  padding: 10px; */
+}
+h1{
+  text-align: center;
+}
+.box {
+  width: 40vw;
+  height: 45vh;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.controls {
+  width: 40vw;
+  height: 45vh;
+}
+.collection .collection-item.active {
+  background-color: #c8030b;
+  color: #eafaf9;
+}
+.teal {
+  background-color: #f5aeb1 !important;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.player-wrapper {
+  position: relative;
+  padding-top: 56.25% /* Player ratio: 100 / (1280 / 720) */
+}
+ 
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
